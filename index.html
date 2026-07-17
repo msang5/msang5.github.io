@@ -3,14 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <title>Portfolio</title>
+    <meta name="description" content="Manmohan S. — Supply Chain Analyst portfolio featuring supply chain, business intelligence, and data analytics case studies.">
+    <meta name="author" content="Manmohan S.">
+    <meta name="keywords" content="Supply Chain Analyst, SQL, Power BI, Python, Portfolio">
+    <meta name="theme-color" content="#0F172A">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Manmohan S. | Supply Chain Analyst">
+    <meta property="og:description" content="Supply chain, business intelligence, and data analytics case studies by Manmohan S.">
+    <meta property="og:url" content="https://msang5.github.io/">
+    <meta property="og:image" content="https://opengraph.githubassets.com/1/msang5/msang5.github.io">
+    <meta name="twitter:card" content="summary">
+    <link rel="canonical" href="https://msang5.github.io/">
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <title>Manmohan S. | Supply Chain Analyst</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Syne:wght@600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
     <!-- Animated Background -->
     <div class="animated-bg">
         <div class="gradient-orb orb-1"></div>
@@ -22,14 +33,15 @@
     <!-- Navigation -->
     <nav class="navbar" id="navbar">
         <div class="container">
-            <a href="#" class="nav-brand" id="nav-brand">MJ</a>
-            <button class="nav-toggle" id="nav-toggle"><span></span><span></span><span></span></button>
+            <a href="#home" class="nav-brand" id="nav-brand" aria-label="Go to home">MS</a>
+            <button class="nav-toggle" id="nav-toggle" type="button" aria-label="Open navigation menu" aria-controls="nav-menu" aria-expanded="false"><span></span><span></span><span></span></button>
             <ul class="nav-menu" id="nav-menu"></ul>
         </div>
     </nav>
 
     <!-- Hero -->
-    <section id="hero" class="hero-section">
+    <main id="main-content">
+    <section id="home" class="hero-section" aria-labelledby="hero-name">
         <div class="container">
             <p class="hero-greeting" id="hero-greeting"></p>
             <h1 class="hero-name" id="hero-name"></h1>
@@ -51,11 +63,19 @@
         </div>
     </section>
 
-    <!-- Work -->
-    <section id="work" class="section">
+    <!-- Experience -->
+    <section id="experience" class="section" aria-labelledby="experience-title">
         <div class="container">
-            <h2 class="section-title" id="work-title">Work</h2>
-            <div class="work-grid" id="work-grid"></div>
+            <h2 class="section-title" id="experience-title">Experience</h2>
+            <div class="timeline" id="experience-list"></div>
+        </div>
+    </section>
+
+    <!-- Projects -->
+    <section id="projects" class="section" aria-labelledby="projects-title">
+        <div class="container">
+            <h2 class="section-title" id="projects-title">Projects</h2>
+            <div class="work-grid" id="projects-grid"></div>
         </div>
     </section>
 
@@ -64,6 +84,15 @@
         <div class="container">
             <h2 class="section-title" id="skills-title">Skills</h2>
             <div class="skills-grid" id="skills-grid"></div>
+        </div>
+    </section>
+
+    <!-- Education -->
+    <section id="education" class="section" aria-labelledby="education-title">
+        <div class="container">
+            <h2 class="section-title" id="education-title">Education</h2>
+            <div class="education-grid" id="education-list"></div>
+            <div class="certifications" id="certifications"></div>
         </div>
     </section>
 
@@ -77,6 +106,9 @@
         </div>
     </section>
 
+    </main>
+    <p class="content-status" id="content-status" role="alert" hidden></p>
+
     <!-- Footer -->
     <footer class="footer">
         <div class="container">
@@ -86,7 +118,7 @@
         </div>
     </footer>
 
-    <button class="back-to-top" id="back-to-top"><i class="fas fa-arrow-up"></i></button>
+    <button class="back-to-top" id="back-to-top" type="button" aria-label="Back to top"><i class="fas fa-arrow-up" aria-hidden="true"></i></button>
     <script src="assets/js/main.js"></script>
 </body>
 </html>

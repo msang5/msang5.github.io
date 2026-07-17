@@ -1,39 +1,31 @@
-# Premium Dark Portfolio Template
+# Manmohan S. — Supply Chain Analyst Portfolio
 
-A stunning premium portfolio template with navy blue, cyan, and gold color scheme. Features animated gradient backgrounds, glassmorphism effects, and smooth animations. Perfect for creative developers and digital artists.
+A static, JSON-driven portfolio for supply chain, operations, and analytics work.
 
-## Features
-
-- **Navy & Cyan Theme**: Modern dark design with vibrant accents
-- **Animated Backgrounds**: Floating gradient orbs and grid overlay
-- **Glassmorphism**: Frosted glass effects throughout
-- **JSON-Driven**: Easy content management
-- **Fully Responsive**: Mobile-first design
-- **Smooth Animations**: Professional transitions
-- **No Framework**: Pure vanilla JavaScript
-
-## Quick Start
+## Run locally
 
 ```bash
-python -m http.server 8000
+npm run start
 ```
 
-Then open http://localhost:8000
+Open <http://localhost:8000>.
 
-## Customization
+## Validate content contracts
 
-Edit JSON files in `data/` folder to update content. Modify CSS variables in `assets/css/styles.css` to change colors.
+```bash
+npm run validate
+```
 
-## Technologies
+The validation script checks that data files parse, in-page navigation and CTAs target real sections, and the core portfolio content is present.
 
-- HTML5, CSS3, Vanilla JavaScript
-- Google Fonts (Inter, Syne)
-- Font Awesome Icons
+## Update content
 
-## Sample Data
+Edit the JSON files in `data/`:
 
-Portfolio for Marcus Johnson - Creative Developer & Digital Artist
+- `experience.json` for professional experience
+- `projects.json` for public case studies
+- `skills.json` for tools and capabilities
+- `education.json` for education and certifications
+- `site-config.json` for site metadata
 
----
-
-**Made with passion**
+The page is deployed through GitHub Pages at <https://msang5.github.io/>.

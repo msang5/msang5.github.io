@@ -1,11 +1,17 @@
 {
-  "_instructions": "Footer content - copyright and social links.",
-  "text": "Designed & Built by Manmohan S.",
-  "copyright": "© 2026 All rights reserved.",
+  "_instructions": "Footer content - copyright and professional links.",
+  "text": "Manmohan S. · Supply Chain Analyst",
+  "copyright": "© 2026 Manmohan S. All rights reserved.",
   "links": [
     {
       "text": "LinkedIn",
+      "href": "https://www.linkedin.com/in/manmohan-sangola/",
       "url": "https://www.linkedin.com/in/manmohan-sangola/"
+    },
+    {
+      "text": "GitHub",
+      "href": "https://github.com/msang5",
+      "url": "https://github.com/msang5"
     }
   ]
 }

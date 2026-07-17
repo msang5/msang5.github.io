@@ -2,9 +2,9 @@
   "_instructions": "Site-wide configuration and meta tags. Update these values for SEO and branding.",
   "meta": {
     "title": "Manmohan S. | Supply Chain Analyst",
-    "description": "Manmohan S. - Supply Chain Analyst | Portfolio",
+    "description": "Manmohan S. — Supply Chain Analyst portfolio featuring supply chain, business intelligence, and data analytics case studies.",
     "author": "Manmohan S.",
-    "keywords": "Supply Chain Analyst, Portfolio, Manmohan S."
+    "keywords": "Supply Chain Analyst, Supply Chain Analytics, Power BI, SQL, Python, Portfolio, Manmohan S."
   },
   "branding": {
     "name": "Manmohan S.",

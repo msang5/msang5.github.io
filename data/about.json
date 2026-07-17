@@ -1,25 +1,25 @@
 {
-  "_instructions": "About section content - tell your professional story and showcase key metrics.",
-  "sectionTitle": "About Me",
+  "_instructions": "About section content - professional summary and grounded highlights.",
+  "sectionTitle": "About",
   "content": [
-    "Supply Chain Analyst with 4+ years of experience supporting inventory planning, logistics coordination, procurement operations, warehouse reporting, and supply chain analytics across high-volume business environments. Experienced in analyzing inventory movement, shipment performance, supplier metrics, and operational KPIs using Excel, SQL, Power BI, and SAP ERP to improve reporting accuracy and op",
-    "erational visibility. Worked closely with procurement, logistics, warehouse, and planning teams to support replenishment activities, fulfillment performance, inventory reconciliation, transportation tracking, and demand planning processes. Strong background in operational reporting, data analysis, process improvement, and supply chain performance monitoring within fast-paced enterprise operations."
+    "I am a supply chain analyst with experience supporting inventory planning, logistics coordination, procurement operations, warehouse reporting, and supply chain analytics. My work centers on making operational data easier to trust and act on.",
+    "I use Excel, SQL, Power BI, Python, and ERP data to analyze inventory movement, shipment performance, supplier activity, and operational KPIs. I collaborate with procurement, logistics, warehouse, and planning teams on reporting, reconciliation, fulfillment, and demand-planning support."
   ],
   "highlights": [
     {
       "icon": "fas fa-briefcase",
-      "title": "2+",
-      "description": "Companies"
+      "title": "2",
+      "description": "Supply chain roles"
     },
     {
-      "icon": "fas fa-project-diagram",
-      "title": "0+",
-      "description": "Project"
+      "icon": "fas fa-chart-line",
+      "title": "5",
+      "description": "Selected case studies"
     },
     {
-      "icon": "fas fa-code",
-      "title": "35+",
-      "description": "Skills"
+      "icon": "fas fa-database",
+      "title": "6",
+      "description": "Core tools"
     }
   ]
 }

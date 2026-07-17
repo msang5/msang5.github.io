@@ -1,369 +1,130 @@
 {
-  "_instructions": "Add your professional projects.",
-  "sectionTitle": "Portfolio",
-  "subtitle": "Featured professional projects",
+  "_instructions": "Selected public case studies. Links point to the source repository or a published report when available.",
+  "sectionTitle": "Selected case studies",
+  "subtitle": "Supply chain and business analytics work",
   "projects": [
     {
-      "title": "multi-source-marketing-analytics",
-      "description": "Modern web application demonstrating clean code principles",
-      "longDescription": "Modern web application demonstrating clean code principles",
-      "category": "Backend Development",
+      "title": "Supply Chain Service-Level Dashboard",
+      "description": "Power BI case study for monitoring on-time, in-full, and line-fill service levels in an FMCG distribution context.",
+      "longDescription": "Analyzes customer, product, order, and target data to support supply chain service-level reporting for the AtliQ Mart case study.",
+      "category": "Supply Chain Analytics",
       "technologies": [
-        "HTML",
-        "Python"
+        "Power BI",
+        "DAX",
+        "CSV"
       ],
-      "icon": "fas fa-brain",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "icon": "fas fa-truck",
+      "image": "assets/images/projects/fmcg-service-level-dashboard.webp",
       "featured": true,
-      "status": "Completed",
-      "role": "Lead Developer",
+      "status": "Case study",
+      "role": "Data analyst",
       "duration": "",
-      "client": "",
-      "github": "https://github.com/msang5/multi-source-marketing-analytics",
-      "demo": "https://github.com/msang5/multi-source-marketing-analytics",
+      "client": "AtliQ Mart (case study)",
+      "github": "https://github.com/msang5/supply-chain-analysis-in-the-fmcg-domain-atliqmart",
+      "demo": "https://app.powerbi.com/view?r=eyJrIjoiOWFkMDVkZGQtMWFhOS00NjBhLThmZGQtYTFhNThlMGNiZjZlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9",
       "links": {
-        "github": "https://github.com/msang5/multi-source-marketing-analytics",
-        "demo": "https://github.com/msang5/multi-source-marketing-analytics",
-        "live": "https://github.com/msang5/multi-source-marketing-analytics"
+        "github": "https://github.com/msang5/supply-chain-analysis-in-the-fmcg-domain-atliqmart",
+        "demo": "https://app.powerbi.com/view?r=eyJrIjoiOWFkMDVkZGQtMWFhOS00NjBhLThmZGQtYTFhNThlMGNiZjZlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9",
+        "live": "https://app.powerbi.com/view?r=eyJrIjoiOWFkMDVkZGQtMWFhOS00NjBhLThmZGQtYTFhNThlMGNiZjZlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"
       },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
+      "metrics": {}
     },
     {
-      "title": "retail-data-analytics-project-python-sql-integration",
-      "description": "Educational project for mastering software architecture",
-      "longDescription": "Educational project for mastering software architecture",
-      "category": "Backend Development",
+      "title": "Retail Data Analytics",
+      "description": "Retail analytics workflow that uses the Kaggle API, Pandas, and SQL Server for data preparation and analysis.",
+      "longDescription": "Public project integrating Python-based extraction and transformation with SQL Server analysis for retail data.",
+      "category": "Retail Analytics",
       "technologies": [
-        "Jupyter Notebook",
-        "Python"
+        "Python",
+        "Pandas",
+        "SQL Server",
+        "Jupyter Notebook"
       ],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
-      "status": "Completed",
-      "role": "Lead Developer",
+      "icon": "fas fa-store",
+      "image": "assets/images/projects/retail-data-analytics.webp",
+      "featured": true,
+      "status": "Project",
+      "role": "Data analyst",
       "duration": "",
       "client": "",
       "github": "https://github.com/msang5/retail-data-analytics-project-python-sql-integration",
-      "demo": "https://github.com/msang5/retail-data-analytics-project-python-sql-integration",
+      "demo": "",
       "links": {
-        "github": "https://github.com/msang5/retail-data-analytics-project-python-sql-integration",
-        "demo": "https://github.com/msang5/retail-data-analytics-project-python-sql-integration",
-        "live": "https://github.com/msang5/retail-data-analytics-project-python-sql-integration"
+        "github": "https://github.com/msang5/retail-data-analytics-project-python-sql-integration"
       },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
+      "metrics": {}
     },
     {
-      "title": "data-analytics-customer-segmentation",
-      "description": "Full-featured application built as a learning exercise",
-      "longDescription": "Full-featured application built as a learning exercise",
-      "category": "Software Development",
+      "title": "Customer Trends Analysis",
+      "description": "Customer-trend analysis project using SQL, Python, and Power BI.",
+      "longDescription": "Public analytics project that brings together SQL, Python, and Power BI to examine customer trends.",
+      "category": "Business Analytics",
       "technologies": [
-        "Jupyter Notebook"
+        "SQL",
+        "Python",
+        "Power BI"
       ],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
-      "status": "Completed",
-      "role": "Lead Developer",
-      "duration": "",
-      "client": "",
-      "github": "https://github.com/msang5/data-analytics-customer-segmentation",
-      "demo": "https://github.com/msang5/data-analytics-customer-segmentation",
-      "links": {
-        "github": "https://github.com/msang5/data-analytics-customer-segmentation",
-        "demo": "https://github.com/msang5/data-analytics-customer-segmentation",
-        "live": "https://github.com/msang5/data-analytics-customer-segmentation"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
-    },
-    {
-      "title": "customer-trends-data-analysis-sql-python-powerbi",
-      "description": "Personal project for exploring modern development practices",
-      "longDescription": "Personal project for exploring modern development practices",
-      "category": "Software Development",
-      "technologies": [
-        "Jupyter Notebook"
-      ],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
-      "status": "Completed",
-      "role": "Lead Developer",
+      "icon": "fas fa-users",
+      "image": "assets/images/projects/customer-trends-analysis.webp",
+      "featured": true,
+      "status": "Project",
+      "role": "Data analyst",
       "duration": "",
       "client": "",
       "github": "https://github.com/msang5/customer-trends-data-analysis-sql-python-powerbi",
-      "demo": "https://github.com/msang5/customer-trends-data-analysis-sql-python-powerbi",
+      "demo": "",
       "links": {
-        "github": "https://github.com/msang5/customer-trends-data-analysis-sql-python-powerbi",
-        "demo": "https://github.com/msang5/customer-trends-data-analysis-sql-python-powerbi",
-        "live": "https://github.com/msang5/customer-trends-data-analysis-sql-python-powerbi"
+        "github": "https://github.com/msang5/customer-trends-data-analysis-sql-python-powerbi"
       },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
+      "metrics": {}
     },
     {
-      "title": "cohort_analysis",
-      "description": "Learning project built with modern web technologies",
-      "longDescription": "Learning project built with modern web technologies",
-      "category": "Software Development",
+      "title": "Sales Insights Dashboard",
+      "description": "Sales-insights project using SQL ETL, a star-schema data model, and Tableau reporting.",
+      "longDescription": "Public business-intelligence project that prepares sales data in SQL and presents it through Tableau dashboards.",
+      "category": "Business Intelligence",
       "technologies": [
-        "Jupyter Notebook"
+        "Tableau",
+        "SQL",
+        "ETL"
       ],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "icon": "fas fa-chart-column",
+      "image": "assets/images/projects/sales-insights-dashboard.webp",
       "featured": false,
-      "status": "Completed",
-      "role": "Lead Developer",
-      "duration": "",
-      "client": "",
-      "github": "https://github.com/msang5/cohort_analysis",
-      "demo": "https://github.com/msang5/cohort_analysis",
-      "links": {
-        "github": "https://github.com/msang5/cohort_analysis",
-        "demo": "https://github.com/msang5/cohort_analysis",
-        "live": "https://github.com/msang5/cohort_analysis"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
-    },
-    {
-      "title": "sales-insights-data-analysis-using-tableau-and-sql",
-      "description": "Interactive application built for continuous learning",
-      "longDescription": "Interactive application built for continuous learning",
-      "category": "Development",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
-      "status": "Completed",
-      "role": "Lead Developer",
+      "status": "Project",
+      "role": "Data analyst",
       "duration": "",
       "client": "",
       "github": "https://github.com/msang5/sales-insights-data-analysis-using-tableau-and-sql",
-      "demo": "https://github.com/msang5/sales-insights-data-analysis-using-tableau-and-sql",
+      "demo": "",
       "links": {
-        "github": "https://github.com/msang5/sales-insights-data-analysis-using-tableau-and-sql",
-        "demo": "https://github.com/msang5/sales-insights-data-analysis-using-tableau-and-sql",
-        "live": "https://github.com/msang5/sales-insights-data-analysis-using-tableau-and-sql"
+        "github": "https://github.com/msang5/sales-insights-data-analysis-using-tableau-and-sql"
       },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
+      "metrics": {}
     },
     {
-      "title": "power-bi-mastery-dynamic-dashboards-advanced-dax",
-      "description": "Personal project for exploring modern development practices",
-      "longDescription": "Personal project for exploring modern development practices",
-      "category": "Development",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
-      "status": "Completed",
-      "role": "Lead Developer",
-      "duration": "",
-      "client": "",
-      "github": "https://github.com/msang5/power-bi-mastery-dynamic-dashboards-advanced-dax",
-      "demo": "https://github.com/msang5/power-bi-mastery-dynamic-dashboards-advanced-dax",
-      "links": {
-        "github": "https://github.com/msang5/power-bi-mastery-dynamic-dashboards-advanced-dax",
-        "demo": "https://github.com/msang5/power-bi-mastery-dynamic-dashboards-advanced-dax",
-        "live": "https://github.com/msang5/power-bi-mastery-dynamic-dashboards-advanced-dax"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
-    },
-    {
-      "title": "sql-for-financial-data-analysis",
-      "description": "Practice repository for exploring advanced features",
-      "longDescription": "Practice repository for exploring advanced features",
-      "category": "Development",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
-      "status": "Completed",
-      "role": "Lead Developer",
-      "duration": "",
-      "client": "",
-      "github": "https://github.com/msang5/sql-for-financial-data-analysis",
-      "demo": "https://github.com/msang5/sql-for-financial-data-analysis",
-      "links": {
-        "github": "https://github.com/msang5/sql-for-financial-data-analysis",
-        "demo": "https://github.com/msang5/sql-for-financial-data-analysis",
-        "live": "https://github.com/msang5/sql-for-financial-data-analysis"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
-    },
-    {
-      "title": "supply-chain-analysis-in-the-fmcg-domain-atliqmart",
-      "description": "Learning project built with modern web technologies",
-      "longDescription": "Learning project built with modern web technologies",
-      "category": "Development",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
-      "status": "Completed",
-      "role": "Lead Developer",
-      "duration": "",
-      "client": "",
-      "github": "https://github.com/msang5/supply-chain-analysis-in-the-fmcg-domain-atliqmart",
-      "demo": "https://github.com/msang5/supply-chain-analysis-in-the-fmcg-domain-atliqmart",
-      "links": {
-        "github": "https://github.com/msang5/supply-chain-analysis-in-the-fmcg-domain-atliqmart",
-        "demo": "https://github.com/msang5/supply-chain-analysis-in-the-fmcg-domain-atliqmart",
-        "live": "https://github.com/msang5/supply-chain-analysis-in-the-fmcg-domain-atliqmart"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
-    },
-    {
-      "title": "analytics-engineering-prototype",
-      "description": "Modern web application demonstrating clean code principles",
-      "longDescription": "Modern web application demonstrating clean code principles",
-      "category": "Development",
-      "technologies": [],
-      "icon": "fas fa-project-diagram",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
-      "status": "Completed",
-      "role": "Lead Developer",
-      "duration": "",
-      "client": "",
-      "github": "https://github.com/msang5/analytics-engineering-prototype",
-      "demo": "https://github.com/msang5/analytics-engineering-prototype",
-      "links": {
-        "github": "https://github.com/msang5/analytics-engineering-prototype",
-        "demo": "https://github.com/msang5/analytics-engineering-prototype",
-        "live": "https://github.com/msang5/analytics-engineering-prototype"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
-    },
-    {
-      "title": "Portfolio",
-      "description": "GitHub repository: Portfolio",
-      "longDescription": "GitHub repository: Portfolio",
-      "category": "Data Science",
+      "title": "Sales Dashboard",
+      "description": "Browser-based sales-dashboard project published as a public repository.",
+      "longDescription": "Public JavaScript, HTML, and CSS project for presenting sales data in a dashboard format.",
+      "category": "Dashboard Design",
       "technologies": [
         "JavaScript",
         "HTML",
         "CSS"
       ],
-      "icon": "fas fa-brain",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
+      "icon": "fas fa-gauge-high",
+      "image": "assets/images/projects/sales-dashboard.webp",
       "featured": false,
-      "status": "Completed",
-      "role": "Lead Developer",
-      "duration": "",
-      "client": "",
-      "github": "https://github.com/msang5/Portfolio",
-      "demo": "https://github.com/msang5/Portfolio",
-      "links": {
-        "github": "https://github.com/msang5/Portfolio",
-        "demo": "https://github.com/msang5/Portfolio",
-        "live": "https://github.com/msang5/Portfolio"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
-    },
-    {
-      "title": "my-quote-website",
-      "description": "GitHub repository: my-quote-website",
-      "longDescription": "GitHub repository: my-quote-website",
-      "category": "Data Science",
-      "technologies": [
-        "JavaScript",
-        "HTML",
-        "CSS"
-      ],
-      "icon": "fas fa-brain",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
-      "status": "Completed",
-      "role": "Lead Developer",
-      "duration": "",
-      "client": "",
-      "github": "https://github.com/msang5/my-quote-website",
-      "demo": "https://github.com/msang5/my-quote-website",
-      "links": {
-        "github": "https://github.com/msang5/my-quote-website",
-        "demo": "https://github.com/msang5/my-quote-website",
-        "live": "https://github.com/msang5/my-quote-website"
-      },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
-    },
-    {
-      "title": "Sales-Dashboard",
-      "description": "GitHub repository: Sales-Dashboard",
-      "longDescription": "GitHub repository: Sales-Dashboard",
-      "category": "Data Science",
-      "technologies": [
-        "JavaScript",
-        "HTML",
-        "CSS"
-      ],
-      "icon": "fas fa-brain",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&q=80&fit=crop",
-      "featured": false,
-      "status": "Completed",
-      "role": "Lead Developer",
+      "status": "Project",
+      "role": "Developer",
       "duration": "",
       "client": "",
       "github": "https://github.com/msang5/Sales-Dashboard",
-      "demo": "https://github.com/msang5/Sales-Dashboard",
+      "demo": "",
       "links": {
-        "github": "https://github.com/msang5/Sales-Dashboard",
-        "demo": "https://github.com/msang5/Sales-Dashboard",
-        "live": "https://github.com/msang5/Sales-Dashboard"
+        "github": "https://github.com/msang5/Sales-Dashboard"
       },
-      "metrics": {
-        "users": "",
-        "performance": "",
-        "impact": ""
-      }
+      "metrics": {}
     }
   ]
 }

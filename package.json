@@ -1,9 +1,13 @@
 {
-  "name": "premium-dark-portfolio",
+  "name": "manmohan-supply-chain-portfolio",
   "version": "1.0.0",
-  "description": "Premium portfolio template with navy, cyan and gold theme",
+  "description": "Supply chain analytics portfolio for Manmohan S.",
   "main": "index.html",
-  "keywords": ["portfolio", "template", "dark-theme", "premium", "creative-developer"],
-  "author": "F1jobs.io",
+  "keywords": ["portfolio", "supply-chain", "analytics", "power-bi", "sql"],
+  "author": "Manmohan S.",
+  "scripts": {
+    "validate": "node scripts/validate-site.mjs",
+    "start": "python3 -m http.server 8000"
+  },
   "license": "MIT"
 }

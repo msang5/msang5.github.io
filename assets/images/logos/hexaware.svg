@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 64" role="img" aria-labelledby="title">
+  <title id="title">Hexaware Technologies</title>
+  <rect width="260" height="64" rx="10" fill="#ffffff"/>
+  <path d="M24 16h12v11h13V16h12v32H49V37H36v11H24z" fill="#1D4B93"/>
+  <text x="74" y="40" fill="#1D4B93" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" letter-spacing="1">HEX AWARE</text>
+</svg>

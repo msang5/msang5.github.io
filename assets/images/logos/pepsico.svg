@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="14"
+   viewBox="0 0 80 11.2"
+   version="1.1"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Pepsico_logo.svg">
+  <title
+     id="title844">Pepsico logo</title>
+  <metadata
+     id="metadata59">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Pepsico logo</dc:title>
+        <cc:license
+           rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:date>21 mayo 2020</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>EEIM</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>N/A</dc:title>
+          </cc:Agent>
+        </dc:rights>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://scripts.sil.org/OFL">
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs57">
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="705"
+     inkscape:window-width="1366"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="1"
+     gridtolerance="1"
+     objecttolerance="1"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1"
+     inkscape:cx="8.9818597"
+     inkscape:cy="5.6007603"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     showguides="true"
+     inkscape:showpageshadow="false"
+     units="px"
+     inkscape:window-maximized="1"
+     inkscape:snap-path-clip="false"
+     inkscape:snap-path-mask="false"
+     inkscape:snap-perpendicular="false"
+     inkscape:snap-tangential="false" />
+  <g
+     id="#ffffffff"
+     transform="translate(0,-1129.8)" />
+  <g
+     id="#2acbffff-4"
+     transform="matrix(0.74035173,0,0,0.75447038,-840.95699,-815.95387)"
+     style="fill:#00ff00" />
+  <g
+     id="#000000ff-6"
+     transform="matrix(0.14544439,0,0,0.14544439,32.622855,-36.739333)" />
+  <path
+     d="m 41.420115,0.08005763 c -3.009989,0 -5.359205,0.72093527 -5.359205,3.39057237 0,1.442419 0.739289,2.5964928 2.529862,2.8999743 l 4.17927,0.6927944 c 0.492092,0.086142 0.661289,0.3891528 0.661289,0.6921015 0,0.4906745 -0.31202,0.8371694 -1.453795,0.8371694 -0.570799,0 -0.973273,-0.072261 -1.245022,-0.2167353 C 40.472641,8.2171039 40.355419,7.9860552 40.34301,7.640208 h -4.412279 c 0.01271,3.030021 3.088623,3.462933 5.904506,3.462933 4.114007,0 5.956787,-1.1832161 5.956787,-3.6945578 0,-1.7453697 -1.142103,-2.6974284 -2.985145,-3.000378 L 40.433721,3.6870198 c -0.363398,-0.057434 -0.479867,-0.2458172 -0.479867,-0.5338754 0,-0.433241 0.376249,-0.7357273 1.466261,-0.7357273 0.40275,0 0.817618,0.057394 1.142194,0.2156969 0.336808,0.1441182 0.55742,0.4044492 0.55742,0.822975 h 4.256826 C 47.246619,1.2771265 45.546354,0.08005763 41.420115,0.08005763 Z m 18.700257,0 c -2.219025,0 -6.332785,0.17314463 -6.332785,5.51188747 0,5.3376809 4.11376,5.5111959 6.332785,5.5111959 2.231611,0 3.63377,-0.418481 4.528613,-1.1688511 0.908493,-0.7500172 1.324025,-1.8466525 1.557664,-3.2029217 v -3.545e-4 h -4.126648 c -0.298517,1.240691 -0.986495,1.7743991 -2.141742,1.7743991 -1.336591,0 -2.258073,-0.8217189 -2.258073,-2.9138232 0,-2.0926311 0.947068,-2.9148588 2.440186,-2.9148588 1.413881,0 1.855751,1.0672844 1.959629,1.8038276 h 4.126648 C 65.726076,0.3968628 62.325925,0.08004866 60.120372,0.08004866 Z m 13.314743,0 c -2.219734,0 -6.333477,0.17296745 -6.333477,5.51188747 0,5.3375029 4.113743,5.5111959 6.333477,5.5111959 2.219202,0 6.332785,-0.173515 6.332785,-5.5111959 0,-5.33874284 -4.113583,-5.51188747 -6.332785,-5.51188747 z M 0.24333198,0.4408233 V 10.742377 H 3.902575 V 7.5387648 h 3.9199512 c 2.5951838,0 3.5294058,-1.5286504 3.5294058,-3.5051745 0,-2.294362 -0.960881,-3.592767 -3.5560662,-3.592767 z m 12.31553802,0 V 10.742377 h 9.849037 V 8.2319057 H 16.218461 V 6.8470089 h 5.74905 v -2.511164 h -5.74905 V 2.9506025 h 6.189446 V 0.4408233 Z m 11.380734,0 V 10.742377 h 3.659589 V 7.5387648 h 3.91891 c 2.595896,0 3.530449,-1.5286504 3.530449,-3.5051745 0,-2.294362 -0.960697,-3.592767 -3.556414,-3.592767 z m 25.045853,0 V 10.742377 h 3.659244 V 0.4408233 Z m 24.449658,2.2362621 c 1.492055,0 2.439841,0.8222276 2.439841,2.9148597 0,2.0921033 -0.947786,2.9138243 -2.439841,2.9138243 -1.492587,-1.783e-4 -2.440187,-0.8218993 -2.440187,-2.9138243 0,-2.0928094 0.9476,-2.9148597 2.440187,-2.9148597 z M 3.902575,2.8640468 h 2.3619405 c 0.9216093,0 1.2720288,0.3179277 1.2720288,1.0968367 0,0.7500165 -0.3505967,1.0677548 -1.2720288,1.0677548 H 3.902575 Z m 23.696618,0 h 2.361941 c 0.921432,0 1.272028,0.3179277 1.272028,1.0968367 0,0.7500165 -0.350596,1.0677548 -1.272028,1.0677548 h -2.361941 z"
+     id="path2-0-5"
+     style="fill:#28458e;fill-opacity:1;stroke-width:0.17726678"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssccsscccssccsscccscssccccsssccccsssssccccsssccccccccccccccccccsssccccccsscsscssscccssscc" />
+</svg>

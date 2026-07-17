@@ -1,13 +1,13 @@
 {
-  "_instructions": "Add your education and certifications here.",
-  "sectionTitle": "Education & Certifications",
+  "_instructions": "Education and certifications. Add only credentials that can be substantiated.",
+  "sectionTitle": "Education",
   "certificationsTitle": "Certifications",
   "education": [
     {
       "degree": "Master of Science",
       "school": "University of Illinois Springfield",
       "institution": "University of Illinois Springfield",
-      "period": "Aug 2023 - Dec 2024",
+      "period": "Aug 2023 – Dec 2024",
       "details": "",
       "description": ""
     },
@@ -15,7 +15,7 @@
       "degree": "Bachelor of Engineering",
       "school": "Vignan University",
       "institution": "Vignan University",
-      "period": "Jul 2016 - Dec 2020",
+      "period": "Jul 2016 – Dec 2020",
       "details": "",
       "description": ""
     }
