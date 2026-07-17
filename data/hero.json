@@ -1,0 +1,58 @@
+{
+  "_instructions": "Hero section content.",
+  "greeting": "Hello, I'm",
+  "name": "Manmohan S.",
+  "title": "Supply Chain Analyst",
+  "summary": "Supply Chain Analyst with 2+ years of experience specializing in SQL, Python, Excel.",
+  "avatarUrl": "/avatar.png",
+  "tagline": "Supply Chain Analyst",
+  "stats": [
+    {
+      "label": "Years Experience",
+      "value": "2+",
+      "icon": "fas fa-briefcase"
+    },
+    {
+      "label": "Projects Completed",
+      "value": "0+",
+      "icon": "fas fa-project-diagram"
+    },
+    {
+      "label": "Certifications",
+      "value": "0+",
+      "icon": "fas fa-certificate"
+    }
+  ],
+  "cta": {
+    "buttons": [
+      {
+        "text": "Get In Touch",
+        "href": "#contact",
+        "type": "primary",
+        "external": false
+      },
+      {
+        "text": "View Portfolio",
+        "href": "#projects",
+        "type": "secondary",
+        "external": false
+      }
+    ]
+  },
+  "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/manmohan-sangola/",
+      "icon": "fab fa-linkedin"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:manmohansangola1@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ],
+  "scrollIndicator": {
+    "text": "Scroll to discover more",
+    "icon": "fas fa-chevron-down"
+  }
+}

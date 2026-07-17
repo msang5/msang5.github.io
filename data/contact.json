@@ -1,0 +1,19 @@
+{
+  "sectionTitle": "Let's Create Something Amazing",
+  "subtitle": "Have a project in mind? Let's bring it to life together.",
+  "email": "manmohansangola1@gmail.com",
+  "location": "IL, USA",
+  "availability": "Open to opportunities",
+  "socialLinks": [
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/manmohan-sangola/",
+      "icon": "fab fa-linkedin-in"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:manmohansangola1@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ]
+}

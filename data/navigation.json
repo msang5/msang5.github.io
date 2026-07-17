@@ -1,0 +1,37 @@
+{
+  "_instructions": "Navigation menu configuration. Add/remove/reorder menu items as needed.",
+  "brand": {
+    "name": "Manmohan S.",
+    "href": "#home"
+  },
+  "menuItems": [
+    {
+      "text": "Home",
+      "href": "#home"
+    },
+    {
+      "text": "About",
+      "href": "#about"
+    },
+    {
+      "text": "Experience",
+      "href": "#experience"
+    },
+    {
+      "text": "Skills",
+      "href": "#skills"
+    },
+    {
+      "text": "Projects",
+      "href": "#projects"
+    },
+    {
+      "text": "Education",
+      "href": "#education"
+    },
+    {
+      "text": "Contact",
+      "href": "#contact"
+    }
+  ]
+}

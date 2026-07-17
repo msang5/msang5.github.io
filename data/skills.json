@@ -1,0 +1,77 @@
+{
+  "_instructions": "Organize your skills into categories. Each category has a name, icon, and list of skills.",
+  "_iconHelp": "Use Font Awesome icons (https://fontawesome.com/icons).",
+  "sectionTitle": "Skills & Technologies",
+  "categories": [
+    {
+      "category": "Programming Languages",
+      "icon": "fas fa-code",
+      "skills": [
+        "SQL",
+        "Python"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "icon": "fas fa-wrench",
+      "skills": [
+        "Excel",
+        "Advanced Excel",
+        "Power BI",
+        "Tableau",
+        "Power Query",
+        "Pivot Tables",
+        "VLOOKUP",
+        "XLOOKUP",
+        "SAP ERP",
+        "SAP MM",
+        "Oracle ERP",
+        "Inventory Management Systems",
+        "Order Management Systems",
+        "Warehouse Reporting Tools",
+        "Microsoft Office Suite"
+      ]
+    },
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-laptop-code",
+      "skills": [
+        "Inventory Management",
+        "Demand Planning Support",
+        "Inventory Reconciliation",
+        "Order Fulfillment",
+        "Shipment Tracking",
+        "Logistics Coordination",
+        "Transportation Monitoring",
+        "Procurement Reporting",
+        "Vendor Performance Tracking",
+        "Warehouse Operations",
+        "Inventory Planning",
+        "Supply Planning Support",
+        "Material Flow Analysis",
+        "Fulfillment Support",
+        "Stock Movement Analysis",
+        "Purchase Order Tracking",
+        "Supply Chain Performance Monitoring",
+        "Supply Chain Analytics",
+        "Inventory Analysis",
+        "Forecast Variance Analysis",
+        "KPI Reporting",
+        "Operational Reporting",
+        "Logistics Reporting",
+        "Procurement Analytics",
+        "Root Cause Analysis",
+        "Data Analysis",
+        "Trend Analysis",
+        "Reporting Automation",
+        "Dashboard Development",
+        "Data Visualization",
+        "Operational Metrics Tracking",
+        "Business Reporting",
+        "Data Cleaning",
+        "Data Validation",
+        "Data Transformation"
+      ]
+    }
+  ]
+}

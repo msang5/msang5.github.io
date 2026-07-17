@@ -1,0 +1,9 @@
+{
+  "name": "premium-dark-portfolio",
+  "version": "1.0.0",
+  "description": "Premium portfolio template with navy, cyan and gold theme",
+  "main": "index.html",
+  "keywords": ["portfolio", "template", "dark-theme", "premium", "creative-developer"],
+  "author": "F1jobs.io",
+  "license": "MIT"
+}

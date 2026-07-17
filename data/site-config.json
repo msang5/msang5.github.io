@@ -1,0 +1,18 @@
+{
+  "_instructions": "Site-wide configuration and meta tags. Update these values for SEO and branding.",
+  "meta": {
+    "title": "Manmohan S. | Supply Chain Analyst",
+    "description": "Manmohan S. - Supply Chain Analyst | Portfolio",
+    "author": "Manmohan S.",
+    "keywords": "Supply Chain Analyst, Portfolio, Manmohan S."
+  },
+  "branding": {
+    "name": "Manmohan S.",
+    "tagline": "Supply Chain Analyst"
+  },
+  "settings": {
+    "year": 2026,
+    "enableAnimations": true,
+    "navbarScrollEffect": true
+  }
+}
